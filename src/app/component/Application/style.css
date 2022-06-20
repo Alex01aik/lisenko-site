@@ -1,0 +1,17 @@
+.application{
+    margin: 0 20%;
+    gap: 120px;
+    margin-bottom: 128px;
+}
+
+.application-items{
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+}
+
+.application-label{
+    margin: auto;
+    width: fit-content;
+    margin-bottom: 32px;
+}

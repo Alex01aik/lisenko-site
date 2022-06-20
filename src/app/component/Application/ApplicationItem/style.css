@@ -1,0 +1,16 @@
+.applicationItem {
+    display: flex;
+    gap: 120px;
+}
+
+.applicationItem-image {
+    width: 200px;
+    height: 200px;
+}
+
+.applicationItem-description { 
+    flex: 1;
+}
+
+.applicationItem-description-title {
+}

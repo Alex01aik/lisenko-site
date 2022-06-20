@@ -1,0 +1,10 @@
+.header{
+    padding: 60px 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-labels{
+    padding-left: 60px;
+}

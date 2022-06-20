@@ -1,0 +1,19 @@
+.footer {
+    min-height: 320px;
+    background-color: rgb(30, 30, 60);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-copyright {
+    display: block;
+    color: white;
+    font-weight: lighter;
+}
+
+.footer-link {
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.how-it-works{
+    display: flex;
+    gap: 64px;
+    padding: 24px 20%;
+    margin-bottom: 128px; 
+}
+
+.how-it-works:hover{
+    background-color: aliceblue;    
+}
+
+.how-it-works-title{
+    padding-top: 24px;
+    padding-bottom: 48px;
+    min-width: 240px;
+    font-size: 36px;
+    margin: 0;
+    border-right: 4px solid lightgrey;
+    padding-right: 64px;
+}
+
+.how-it-works-desc{
+    margin: 0;
+    padding-top: 24px;
+    padding-bottom: 48px;
+}
