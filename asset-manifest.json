@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lisenko-site/static/css/main.03dc3a79.css",
+    "main.js": "/lisenko-site/static/js/main.d8ed281c.js",
+    "index.html": "/lisenko-site/index.html",
+    "main.03dc3a79.css.map": "/lisenko-site/static/css/main.03dc3a79.css.map",
+    "main.d8ed281c.js.map": "/lisenko-site/static/js/main.d8ed281c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03dc3a79.css",
+    "static/js/main.d8ed281c.js"
+  ]
+}
